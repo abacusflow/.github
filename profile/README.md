@@ -1,12 +1,41 @@
-## Hi there 👋
+# 🧮 AbacusFlow
 
-<!--
+**AbacusFlow** 是一个专注于中小企业数字化转型的现代化 **进销存与智能分析系统**，致力于让业务管理更高效、更智能、更可视化。
 
-**Here are some ideas to get you started:**
+## 🚀 我们在构建什么？
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AbacusFlow 是一个开箱即用的企业管理平台，聚焦以下核心场景：
+
+- **采购、库存、销售管理**：支持批次商品与资产类商品双模式，覆盖一物一码与常规库存。
+- **灵活的业务建模**：支持多维度反查、灵活关联客户、供应商、商品、仓库等信息。
+- **数据驱动决策**：内置 Cube.js 无头 BI，引入 Vue + ECharts 可视化图表，轻松实现利润分析、销售趋势、库存占比、客户生命周期等关键指标。
+- **多端部署支持**：支持本地部署、Docker 化部署与离线安装包，适配多种企业部署场景。
+
+## 🧠 设计理念
+
+我们坚持以下原则：
+
+- **面向业务建模，拥抱 DDD 与 CQRS**
+- **可视化即数据价值**
+- **开箱即用，简洁灵活**
+- **开放而不复杂，专业但不重型**
+
+## 📦 快速体验
+
+> 联系我们体验
+
+## 🛠️ 当前进展
+
+- ✅ 支持采购入库扫码录入（支持一物一码与批量模式）
+- ✅ 支持销售出库、库存预警、退货记录
+- ✅ 已实现 15+ 图表维度的可视化分析
+- 🔄 多店铺支持、权限系统、移动端适配模块建设中
+
+## 🤝 合作与交流
+
+我们欢迎任何形式的交流、反馈与合作。  
+若您也在构建企业管理系统、零售/供应链平台，或希望参与开源生态建设，欢迎联系我们！
+
+---
+
+> © 2025 AbacusFlow — 让数据流动起来，让管理更轻松。
